@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning C++, PHP and js
+- 🌱 I’m currently learning C++, PHP and JS
 - 🏫 I'm studying at https://tm1.edu.pl/
 - 📫 How to reach me: discord - sebe324#9641
 <!--
