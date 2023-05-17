@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning C++, PHP and js
+- 🏫 I'm studying at https://tm1.edu.pl/
+- 📫 How to reach me: discord - sebe324#9641
 <!--
 **sebe324/sebe324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
