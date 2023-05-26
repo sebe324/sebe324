@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C++, OpenCV and some web-dev
 - 🏫 I'm studying at <a href="https://tm1.edu.pl/" target="_blank">tm1.edu.pl/</a>
 - 📫 How to reach me: discord - sebe324#9641
-- - ⚡ Fun fact: My profile picture was made using https://github.com/sebe324/Image-Processing
+- ⚡ Fun fact: My profile picture was made using https://github.com/sebe324/Image-Processing
 <!--
 **sebe324/sebe324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
