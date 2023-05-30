@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C++, OpenCV and some web-dev
+- 🌱 I’m currently learning C++, Python, OpenCV and some web-dev
 - 🏫 I'm studying at <a href="https://tm1.edu.pl/" target="_blank">tm1.edu.pl/</a>
 - 📫 How to reach me: discord - sebe324#9641
 - ⚡ Fun fact: My profile picture was made using https://github.com/sebe324/Image-Processing
