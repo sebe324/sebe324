@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C, C++, Python and Unity
+- 🌱 I’m currently learning C, C++, Python and Qt
 - 🏫 I'm studying at <a href="https://tm1.edu.pl/" target="_blank">tm1.edu.pl/</a>
 - 📫 How to reach me:
   - email: skonieczny.sebastian123@gmail.com
