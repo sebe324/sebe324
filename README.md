@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   - email: skonieczny.sebastian123@gmail.com
 - ⚡ Fun fact: My profile picture was made using https://github.com/sebe324/Image-Processing
-
+- 🌐 Website: ![s-skon.dev](https://www.s-skon.dev/)
 ### Tools and languages I'm using:
 <p align="left">
   
@@ -25,6 +25,8 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
+
+
 <!--
 **sebe324/sebe324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
