@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C, C++, Python and Qt
+- 🌱 I’m currently learning Python, Django and ML
 - 🏫 I'm studying at <a href="https://tm1.edu.pl/" target="_blank">tm1.edu.pl/</a>
 - 📫 How to reach me:
   - email: skonieczny.sebastian123@gmail.com
 - ⚡ Fun fact: My profile picture was made using https://github.com/sebe324/Image-Processing
-- 🌐 Website: ![s-skon.dev](https://www.s-skon.dev/)
+- 🌐 Website: [s-skon.dev](https://www.s-skon.dev/)
 ### Tools and languages I'm using:
 <p align="left">
   
